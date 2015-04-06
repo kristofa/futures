@@ -13,7 +13,7 @@ import SumAndMultiplicationOps._
  */
 class FuturesSpec extends Specification {
 
-  // Executes sequentially do better see logging
+  // Executes sequentially to make logging of tests useful
   sequential
 
   """
